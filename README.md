@@ -4,4 +4,4 @@ Cara instal
 1. apt-get install php
 2. apt-get install curl
 6. apt-get install git
-7. git install https://github.com/Viole403/p-guard
+7. git install https://github.com/uchil404/p-guard
